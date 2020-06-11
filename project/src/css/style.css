@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+}
+
+.img {
+width: 1920px;
+height: 684px;
+background-color: rgba(30, 121, 178, 0.4);
+}
